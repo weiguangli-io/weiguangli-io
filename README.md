@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=680&height=30&lines=5%2B+years+building+internet-scale+backend+services;39+merged+PRs+across+14+top-tier+AI%2FML+projects;Contributing+to+OpenAI+%7C+HuggingFace+%7C+Google+ADK+%7C+vLLM;Open+to+Work+%E2%80%94+Backend+%2F+AI+Infrastructure" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=580&height=30&lines=5%2B+years+backend+at+Alibaba;39+merged+PRs+in+top+AI+open+source;Building+AI+Agent+infrastructure;Open+to+Work+%E2%80%94+Backend+%2F+AI+Infra" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
