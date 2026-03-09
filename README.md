@@ -68,15 +68,15 @@ All-in on **AI Agent infrastructure** — contributing to top open source projec
 
 ### At a Glance
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=weiguangli-io&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&count_private=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&include_all_commits=true&rank_icon=percentile" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=WeiguangLi&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&count_private=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&include_all_commits=true&rank_icon=percentile" width="100%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=weiguangli-io&theme=github-dark-blue&hide_border=true&border_radius=10&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=WeiguangLi&theme=github-dark-blue&hide_border=true&border_radius=10&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=weiguangli-io&layout=compact&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&langs_count=8&title_color=58A6FF&text_color=c9d1d9" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WeiguangLi&layout=compact&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&langs_count=8&title_color=58A6FF&text_color=c9d1d9" width="100%"/>
 
 </td>
 </tr>
@@ -153,7 +153,7 @@ All-in on **AI Agent infrastructure** — contributing to top open source projec
 
 <br/><br/>
 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/weiguangli-io/weiguangli-io/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WeiguangLi/WeiguangLi/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
