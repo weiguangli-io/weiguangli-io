@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&repeat=true&width=580&height=30&lines=5%2B+years+backend+at+Alibaba;39+merged+PRs+in+top+AI+open+source;Building+AI+Agent+infrastructure;Open+to+Work+%E2%80%94+Backend+%2F+AI+Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&repeat=true&width=580&height=30&lines=5%2B+years+backend+at+Alibaba;41%2B+merged+PRs+in+top+AI+open+source;Building+AI+Agent+infrastructure;Open+to+Work+%E2%80%94+Backend+%2F+AI+Engineer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ Backend engineer with **5+ years** building internet-scale services at **Alibaba
 
 All-in on **AI Agent infrastructure** — contributing to top open source projects
 
-**39 merged PRs** across 14 top-tier AI/ML projects including OpenAI, HuggingFace, Google, LangChain, and vLLM
+**41 merged PRs** across **15 top-tier AI/ML projects** including OpenAI, Hugging Face, LangChain, vLLM, and more
 
 <br/>
 
@@ -68,7 +68,7 @@ All-in on **AI Agent infrastructure** — contributing to top open source projec
 
 ### At a Glance
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=weiguangli-io&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&count_private=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&include_all_commits=true&rank_icon=percentile" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=weiguangli-io&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&include_all_commits=true&rank_icon=percentile" width="100%"/>
 
 <br/>
 
@@ -76,7 +76,7 @@ All-in on **AI Agent infrastructure** — contributing to top open source projec
 
 <br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=weiguangli-io&layout=compact&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&langs_count=8&title_color=58A6FF&text_color=c9d1d9" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weiguangli-io&layout=compact&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&langs_count=8&title_color=58A6FF&text_color=c9d1d9&exclude_repo=javase,database,oipunk.github.io&size_weight=0.5&count_weight=0.5" width="100%"/>
 
 </td>
 </tr>
@@ -92,26 +92,27 @@ All-in on **AI Agent infrastructure** — contributing to top open source projec
 
 ### Open Source Contributions
 
-**39 Merged PRs** across **14 Top-Tier AI/ML Projects**
+**41 Merged PRs** across **15 Top-Tier AI/ML Projects**
 
 <br/>
 
 | Project | Stars | Merged | Domain |
 |:--------|------:|:------:|:-------|
-| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 18K+ | **11** | AI Agent Runtime (Official SDK) |
-| [huggingface/transformers](https://github.com/huggingface/transformers) | 140K+ | **5** | ML Framework |
-| [langgenius/dify](https://github.com/langgenius/dify) | 90K+ | **4** | AI Application Platform |
-| [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 18K+ | **4** | NLP/RAG Pipeline Framework |
-| [gradio-app/gradio](https://github.com/gradio-app/gradio) | 36K+ | **2** | ML Demo & UI Framework |
-| [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 8K+ | **2** | AI Agent Framework |
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 18K+ | **2** | LLM Unified Gateway |
-| [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 7K+ | **2** | Java LLM Framework |
-| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 105K+ | **1** | Python LLM Framework |
-| [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | — | **1** | Deep Research Agent |
-| [run-llama/llama_index](https://github.com/run-llama/llama_index) | 40K+ | **1** | RAG Framework |
-| [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10K+ | **1** | AI Observability Platform |
-| [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) | 43K+ | **1** | LLM Inference UI |
-| [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) | 4K+ | **1** | Java AI Framework |
+| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 20K+ | **12** | AI Agent Runtime (Official SDK) |
+| [huggingface/transformers](https://github.com/huggingface/transformers) | 158K+ | **5** | ML Framework |
+| [langgenius/dify](https://github.com/langgenius/dify) | 132K+ | **4** | AI Application Platform |
+| [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 24K+ | **4** | NLP/RAG Pipeline Framework |
+| [gradio-app/gradio](https://github.com/gradio-app/gradio) | 42K+ | **2** | ML Demo & UI Framework |
+| [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 15K+ | **2** | AI Agent Framework |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 39K+ | **2** | LLM Unified Gateway |
+| [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 11K+ | **2** | Java LLM Framework |
+| [run-llama/llama_index](https://github.com/run-llama/llama_index) | 48K+ | **2** | RAG Framework |
+| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 129K+ | **1** | Python LLM Framework |
+| [vllm-project/vllm](https://github.com/vllm-project/vllm) | 73K+ | **1** | LLM Serving Engine |
+| [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 10K+ | **1** | Deep Research Agent |
+| [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) | 46K+ | **1** | LLM Inference UI |
+| [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9K+ | **1** | AI Observability Platform |
+| [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) | 8K+ | **1** | Java AI Framework |
 
 <br/>
 
