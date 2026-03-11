@@ -154,7 +154,7 @@ All-in on **AI Agent infrastructure** — contributing to top open source projec
 
 <br/><br/>
 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/weiguangli-io/weiguangli-io/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net/gh/weiguangli-io/weiguangli-io@output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
