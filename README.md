@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&repeat=true&width=580&height=30&lines=5%2B+years+backend+at+Alibaba;41%2B+merged+PRs+in+top+AI+open+source;Building+AI+Agent+infrastructure;Open+to+Work+%E2%80%94+Backend+%2F+AI+Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&repeat=true&width=580&height=30&lines=5%2B+years+backend+at+Alibaba;47%2B+merged+PRs+in+top+AI+open+source;Building+AI+Agent+infrastructure;Open+to+Work+%E2%80%94+Backend+%2F+AI+Engineer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ Backend engineer with **5+ years** building internet-scale services at **Alibaba
 
 All-in on **AI Agent infrastructure** — contributing to top open source projects
 
-**41 merged PRs** across **15 top-tier AI/ML projects** including OpenAI, Hugging Face, LangChain, vLLM, and more
+**47 merged PRs** across **18 top-tier AI/ML projects** including OpenAI, Google ADK, Hugging Face, LangChain, vLLM, and more
 
 <br/>
 
@@ -42,9 +42,11 @@ All-in on **AI Agent infrastructure** — contributing to top open source projec
 
 **AI / Agent** &nbsp;
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/vLLM-FF6F00?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-58A6FF?style=flat-square&logoColor=white"/>
 
 **Backend** &nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
@@ -92,7 +94,7 @@ All-in on **AI Agent infrastructure** — contributing to top open source projec
 
 ### Open Source Contributions
 
-**41 Merged PRs** across **15 Top-Tier AI/ML Projects**
+**47 Merged PRs** across **18 Top-Tier AI/ML Projects**
 
 <br/>
 
@@ -108,7 +110,10 @@ All-in on **AI Agent infrastructure** — contributing to top open source projec
 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 11K+ | **2** | Java LLM Framework |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 48K+ | **2** | RAG Framework |
 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 129K+ | **1** | Python LLM Framework |
-| [vllm-project/vllm](https://github.com/vllm-project/vllm) | 73K+ | **1** | LLM Serving Engine |
+| [google/adk-python](https://github.com/google/adk-python) | 12K+ | **1** | Google AI Agent Dev Kit |
+| [vllm-project/vllm](https://github.com/vllm-project/vllm) | 73K+ | **3** | LLM Serving Engine |
+| [livekit/agents](https://github.com/livekit/agents) | 6K+ | **2** | Real-time Voice AI Agent |
+| [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 26K+ | **1** | AI Orchestration SDK |
 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 10K+ | **1** | Deep Research Agent |
 | [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) | 46K+ | **1** | LLM Inference UI |
 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9K+ | **1** | AI Observability Platform |
@@ -135,6 +140,10 @@ All-in on **AI Agent infrastructure** — contributing to top open source projec
 > **openai/openai-agents-python** — Fixed voice pipeline trace lifecycle: spans were closed before pipeline processing completed, breaking observability. ([PR #2472](https://github.com/openai/openai-agents-python/pull/2472))
 
 > **BerriAI/litellm** — Filtered `custom` field from tool definitions to prevent Bedrock 400 errors. Directly impacted all Claude Code users routing through LiteLLM. ([PR #22861](https://github.com/BerriAI/litellm/pull/22861))
+
+> **vllm-project/vllm** — Fixed Qwen3-VL multimodal timestamp mismatch when using `num_frames` without explicit FPS, causing video understanding failures. ([PR #36136](https://github.com/vllm-project/vllm/pull/36136))
+
+> **livekit/agents** — Fixed `update_instructions()` not reflected during tool call response generation, ensuring dynamic instruction updates take effect within the same turn. ([PR #5072](https://github.com/livekit/agents/pull/5072))
 
 <br/>
 
