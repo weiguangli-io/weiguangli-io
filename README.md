@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&repeat=true&width=580&height=30&lines=5%2B+years+backend+at+Alibaba;49%2B+merged+PRs+in+top+AI+open+source;Building+AI+Agent+infrastructure;Open+to+Work+%E2%80%94+Backend+%2F+AI+Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&repeat=true&width=580&height=30&lines=5%2B+years+backend+at+Alibaba;50%2B+merged+PRs+in+top+AI+open+source;Building+AI+Agent+infrastructure;Open+to+Work+%E2%80%94+Backend+%2F+AI+Engineer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ Backend engineer with **5+ years** building internet-scale services at **Alibaba
 
 All-in on **AI Agent infrastructure** — contributing to top open source projects
 
-**49 merged PRs** across **18 top-tier AI/ML projects** including OpenAI, Google ADK, Hugging Face, LangChain, vLLM, and more
+**50 merged PRs** across **18 top-tier AI/ML projects** including OpenAI, Google ADK, Hugging Face, LangChain, vLLM, and more
 
 <br/>
 
@@ -94,7 +94,7 @@ All-in on **AI Agent infrastructure** — contributing to top open source projec
 
 ### Open Source Contributions
 
-**49 Merged PRs** across **18 Top-Tier AI/ML Projects**
+**50 Merged PRs** across **18 Top-Tier AI/ML Projects**
 
 <br/>
 
@@ -109,7 +109,7 @@ All-in on **AI Agent infrastructure** — contributing to top open source projec
 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 39K+ | **2** | LLM Unified Gateway |
 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 11K+ | **2** | Java LLM Framework |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 48K+ | **2** | RAG Framework |
-| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 129K+ | **1** | Python LLM Framework |
+| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 129K+ | **2** | Python LLM Framework |
 | [google/adk-python](https://github.com/google/adk-python) | 12K+ | **1** | Google AI Agent Dev Kit |
 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | 73K+ | **3** | LLM Serving Engine |
 | [livekit/agents](https://github.com/livekit/agents) | 6K+ | **2** | Real-time Voice AI Agent |
